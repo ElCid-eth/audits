@@ -11,7 +11,7 @@ I'm an independent security researcher, a member of the [kebabsec](https://kebab
 | [brrito](https://app.brrito.xyz/home) | [brrEth2](https://github.com/brritoxyz/brr-eth-upgradeable/tree/main) | [kebabsec](https://kebabsec.xyz/) | [okko](https://twitter.com/realgmhacker), [slush](https://twitter.com/flamehorizon1) | [:page_facing_up:](https://drive.google.com/file/d/1YnUstwC8sF_koS66aS5WGQcSmG36nBam/view) |
 | [Ramen Finance](https://ramen.finance/) | audit in progress | [kebabsec](https://kebabsec.xyz/) | [okko](https://twitter.com/realgmhacker), [shung](https://twitter.com/shunduquar), [slush](https://twitter.com/flamehorizon1), [sai](https://twitter.com/sigh242) | tbd|
 ## Contests
-https://code4rena.com/@ElCid
+https://audits.sherlock.xyz/watson/ElCid-eth
 ## Background
 * Bachelor in Economics - Lisbon School of Economics and Management
 * Jr. Financial Controller - PowerDot Lisbon
